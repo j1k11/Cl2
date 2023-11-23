@@ -49,13 +49,13 @@ print(student_height)
 
 my_dict = {}
 my_dict = dict()
-my_dict = {"name" : "Roman",
-           "surname" : "Vytvytskyi",
-           "age" : "32",
-           "teacher" : True,
-           "work-days" : [1,2,4,5]}
+my_dict = {"name" : "iura",
+           "surname" : "maryna",
+           "age" : "16",
+           "teacher" : fols,
+           "work-days" : [1]}
 
-print(my_dict['work-days'][2])
+print(my_dict['work-days'][1])
 print(my_dict)
 my_dict["adress"] = "Ivano-Frankivsk"
 print(my_dict)
